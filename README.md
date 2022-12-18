@@ -19,4 +19,4 @@ As different frequency components exhibit pixel-wise correlations, the LF compon
 
 ## Test and Train 
 
-The source code of CLPN will be available after the publication of the paper.
+The source code of CLPN will be available after the acceptance of this paper.
